@@ -1,8 +1,3 @@
-Based on your two resumes — one focused on **general software engineering** and the other on **AI/ML specialization** — here's a **combined and attractive `README.md`** for your GitHub profile, reflecting the best of both profiles:
-
----
-
-```markdown
 <h1 align="center">Hi, I'm Prajwal Sri Tej 👋</h1>
 
 <p align="center">
@@ -91,6 +86,4 @@ Based on your two resumes — one focused on **general software engineering** an
 </p>
 ```
 
----
 
-Would you like me to export this as a `.md` file for direct upload to your GitHub repo?
