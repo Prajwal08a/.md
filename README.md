@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prajwal Sri Tej 👋</h1>
+<h1 align="center">Hi, I'm Aitty.Prajwal Sri Tej 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=M.Tech+CSE+%40+VIT-AP;AI+%7C+ML+%7C+Full+Stack+%7C+Cloud;Researcher+%7C+Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
