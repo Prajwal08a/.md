@@ -15,10 +15,11 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 I'm an **M.Tech Integrated Computer Science and Engineering** student at **VIT-AP** (CGPA: 8.95).
-- 🤖 Passionate about **AI/ML**, **Full Stack Development**, and **Cloud Technologies**.
-- 🧠 Active in **research**, especially in **healthcare AI**, with recent work on brain tumor detection.
-- 🚀 Constantly learning and building innovative solutions for real-world challenges.
+- 🎓 Pursuing **M.Tech Integrated in Computer Science and Engineering**  
+  at **Vellore Institute of Technology, Andhra Pradesh (VIT-AP)**
+- 🤖 Passionate about **AI/ML**, **Full Stack Development**, and **Cloud Technologies**
+- 🧠 Active in **research**, especially in **healthcare AI**, with IEEE and national-level publications
+- 🚀 Constantly learning and building innovative solutions for real-world challenges
 
 ---
 
@@ -26,7 +27,7 @@
 
 - **Languages:** Python, Java, R, C++, PHP, HTML, CSS, JavaScript  
 - **Frameworks:** Django, Flask, React.js, Bootstrap, Tailwind CSS  
-- **AI/ML:** TensorFlow, Keras, CNN, VGG19, OpenCV, NumPy, Pandas  
+- **AI/ML:** TensorFlow, Keras, CNN, U-Net, VGG19, OpenCV, NumPy, Pandas  
 - **DevOps:** GitHub Actions, CI/CD, Docker, Jenkins  
 - **Databases & Cloud:** MySQL, MongoDB, AWS, Oracle Cloud (OCI)  
 - **Tools:** Power BI, Google Colab, Eclipse, VS Code, MS Office  
@@ -43,10 +44,33 @@
 > Interactive dashboard with KPIs like ER time, patient flow, LOS metrics, department analysis, and sentiment insights.
 
 ### 🧠 AT/RT Brain Tumor Detection (AI/ML)
-> Deep learning web app (Django + Flask + TensorFlow) for real-time detection of pediatric brain tumors using MRI scans. Achieved 96% accuracy using VGG19 & custom CNN.
+> Deep learning web app (Django + Flask + TensorFlow) for real-time detection of pediatric brain tumors using MRI scans. Achieved 96% accuracy using VGG19 & U-Net.
 
 ### 🎓 SENSAI – Career Assistant
 > React + MongoDB powered AI career platform with resume builder, mock interviews, and job market trends.
+
+---
+
+## 🧪 Research Publications
+
+### 📌 1. Cybersecurity in Healthcare: IoT Security for Medical Devices  
+📍 *Presented at IEEE ICCCNT 2024, IIT Mandi*  
+🔗 [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10724329)  
+🧠 Proposed a hybrid AI + Blockchain framework to secure connected medical devices in hospitals.  
+🔒 Key Contributions:
+- Developed a **Threat Detection Model using Trusted Neural Networks (TNN)** with 99.98% accuracy  
+- Integrated **blockchain encryption** for immutable and privacy-preserving storage of patient records  
+- Addressed **system- and human-centric vulnerabilities** in real-time IoT environments
+
+---
+
+### 📌 2. Automated AT/RT Brain Tumor Detection using U-Net & VGG-19  
+📍 *Accepted in National Conference on AI & Medical Imaging 2024*  
+🧠 Designed a deep learning system for detection and segmentation of Atypical Teratoid/Rhabdoid Tumors (AT/RT)  
+🔍 Highlights:
+- Used **U-Net for MRI segmentation** and **VGG-19 for classification** with the BraTS2020 dataset  
+- Achieved **0.94 F1-score**, **0.93 test accuracy**, and seamless Django-based deployment  
+- Employed real-time data augmentation and Grad-CAM explainability for clinical integration
 
 ---
 
@@ -54,7 +78,7 @@
 
 - 🟡 [Java Programming – Great Learning (2024)](https://www.mygreatlearning.com/certificate/MTZTSIJB)
 - 🟠 [Oracle Cloud Foundations – Oracle University (2024)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2193E0FAA6C51B89855D01451C9DBC2E799625787E76736D3EAAB49811F405FB)
-- 🔐 [Cybersecurity in Healthcare (IEEE – IIT Mandi, 2024)](https://ieeexplore.ieee.org/document/10724329)
+- 🔐 [Cybersecurity in Healthcare – IEEE](https://ieeexplore.ieee.org/document/10724329)
 
 ---
 
@@ -84,6 +108,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-```
-
-
