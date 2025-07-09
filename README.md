@@ -15,10 +15,9 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 Pursuing **M.Tech Integrated in Computer Science and Engineering**  
-  at **Vellore Institute of Technology, Andhra Pradesh (VIT-AP)**
+- 🎓 Pursuing **M.Tech Integrated Computer Science and Engineering**  at **Vellore Institute of Technology, Andhra Pradesh**
 - 🤖 Passionate about **AI/ML**, **Full Stack Development**, and **Cloud Technologies**
-- 🧠 Active in **research**, especially in **healthcare AI**, with IEEE and national-level publications
+- 🧠 Active in **Research**, especially in **healthcare AI**, with IEEE and national-level publications
 - 🚀 Constantly learning and building innovative solutions for real-world challenges
 
 ---
